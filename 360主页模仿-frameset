@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>360导航，新一代安全导航</title>
+    <style type="text/css">
+        a:link,
+        a:visited
+        {
+            color:black;
+            text-decoration: none;
+        }
+        a:hover
+        {
+            color:red;
+            text-decoration: underline;
+        }
+        a:active
+        {
+            color: green;
+            text-decoration: underline;
+        }
+        input{ font-family:宋体; font-size:17px;text-align: center}
+    </style>
+    <base target="_blank"/>
+</head>
+<body >
+<div>
+<form style="margin-top: 90px;margin-left:190px;width: 1000px;height: 110px">
+    <fieldset>
+     <ul style="margin-top: 5px;list-style-type: none">
+         <li style="float: left;margin-left: 200px">网页</li>
+         <li style="float: left;margin-left: 20px">新闻</li>
+         <li style="float: left;margin-left: 20px">视频</li>
+         <li style="float: left;margin-left: 20px">图片</li>
+         <li style="float: left;margin-left: 20px">音乐</li>
+         <li style="float: left;margin-left: 20px">微博</li>
+         <li style="float: left;margin-left: 20px">地图</li>
+         <li style="float: left;margin-left: 20px">问答</li>
+         <li style="float: left;margin-left: 20px">购物</li>
+         <li style="float: left;margin-left: 20px">机票</li>
+         <li style="float: left;margin-left: 20px">汽车</li>
+     </ul>
+         <br/><form >
+             <select style="margin-left: 110px;margin-top: 10px;margin-bottom:15px;height: 40px;width: 100px"">
+                 <option value="综合搜索" selected="selected">综合搜索</option>
+                 <option value="360搜索">360搜索</option>
+                 <option value="必应搜索">必应搜索</option>
+                 <option value="Google">谷歌搜索</option>
+                 <option value="有道搜索">有道搜索</option>
+                 <option value="百度">百度</option>
+             </select>
+         </form>
+        <input type="search" style="width: 580px;height: 40px">
+        <input type="button" value="搜索一下" style="height: 40px;width: 80px;background: gainsboro">
+
+    </fieldset>
+</form>
+</div>
+<div>
+ <form style="margin-left: 190px;width: 1000px;height:50px;margin-top: 20px">
+     <fieldset style="height: 30px">
+           <p style="float: left;margin-top: 10px;"><img src="我的主页.jpg" style="height: 15px;width: 20px;text-align: center">我的主页</p>
+           <p style="float: left;margin-left: 20px;margin-top: 10px"><img src="QQ图片20150105111911.png" style="height: 15px;width: 25px">新闻头条</p>
+           <p style="float: left;margin-left: 20px;margin-top: 10px"><img src="QQ图片20150105103331.png" style="height: 15px;width: 20px">电 视 剧</p>
+           <p style="float: left;margin-left: 20px;margin-top: 10px"><img src="QQ图片20150105103339.png" style="height: 15px;width: 20px">最新电影</p>
+           <p style="float: left;margin-left: 20px;margin-top: 10px"><img src="QQ图片20150105103347.png" style="height: 15px;width: 20px">小 游 戏</p>
+           <p style="float: left;margin-left: 20px;margin-top: 10px"><img src="QQ图片20150105103400.png" style="height: 15px;width: 20px">小说大全</p>
+           <p style="float: left;margin-left: 20px;margin-top: 10px"><img src="QQ图片20150105103410.png" style="height: 15px;width: 20px">旅游度假</p>
+           <p style="float: left;margin-left: 20px;margin-top: 10px"><img src="QQ图片20150105103420.png" style="height: 15px;width: 20px">频牌特卖</p>
+           <p style="float: left;margin-left: 20px;margin-top: 10px"><img src="QQ图片20150105103430.png" style="height: 15px;width: 20px">今日团购</p>
+     </fieldset>
+ </form>
+</div>
+<div>
+ <fieldset style="width: 230px;margin-left: 190px;margin-top: 15px">
+ <dl style="list-style-type: none;">
+       <li style="float: left;"><img src="QQ图片20150105151928.png" style="width: 25px;height: 15px">新闻•视频</li>
+       <li style="float: left;margin-left: 20px"><img src="QQ图片20150105152942.png" style="width: 25px;height: 15px">电影•电视剧</li>
+       <li style="float: left"><img src="QQ图片20150105103430.png" style="width: 20px;height: 15px;margin-top: 15px">今日团购</li>
+       <li style="float: left;margin-left: 35px"><img src="QQ图片20150105154951.png"style="width: 20px;height: 15px;margin-top: 15px">彩票•双色球</li>
+       <li style="float: left"><img src="QQ图片20150105155826.png" style="width: 20px;height: 15px;margin-top: 15px">网上购物</li>
+       <li style="float:left;margin-left: 35px"><img src="QQ图片20150105160240.png"style="width: 20px;height: 15px;margin-top: 15px">小说•小游戏</li>
+       <li style="float: left"><img src="QQ图片20150105161025.png" style="width: 20px;height: 15px;margin-top:15px">游戏•棋牌</li>
+       <li style="float: left;margin-left: 25px"><img src="QQ图片20150105164147.png" style="width: 20px;height: 15px;margin-top: 15px"/>音乐•动漫</li>
+       <li style="float: left"><img src="QQ图片20150105164313.png" style="width: 20px;height: 15px;margin-top: 15px"/>搞笑•八卦</li>
+       <li style="float: left;margin-left: 25px"><img src="QQ图片20150105164557.png" style="width: 20px;height: 15px;margin-top: 15px"/>教育•度假</li>
+ </dl></fieldset>
+</div>
+</body>
+</html>
